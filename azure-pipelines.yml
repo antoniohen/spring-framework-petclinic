@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'dfd4844d-ad04-4f37-931a-277f1d808cae'
+  azureSubscription: 'connection_ninja'
   
   # Web app name
   webAppName: 'java-app-cenas'
